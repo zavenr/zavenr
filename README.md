@@ -11,11 +11,12 @@ I'm a Computer Science student at Metropolitan State University of Denver, passi
 - 🛠️ Enhancing a full-stack **Fitness Tracking App** with PostgreSQL, React, and Docker
 - 📚 Sharpening my skills in **Java** and **Python**
 - 🔍 Exploring backend optimization with **Prisma ORM** and **Express.js**
+- 🧪 Experimenting with new programming languages and frameworks to broaden my skillset
 
 ---
 
 ### 💬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/zavenranum)  
 [![GitHub](https://img.shields.io/badge/GitHub-zavenr-black)](https://github.com/zavenr)
 
 ---

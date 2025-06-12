@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Zaven Ranum</h1>
 
----
 
 ### 🧑‍💻 About Me:
 I'm a Computer Science student at Metropolitan State University of Denver, passionate about building full-stack applications and exploring data systems. I bring a strong work ethic, hands-on development experience, and a drive to continuously improve.

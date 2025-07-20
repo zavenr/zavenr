@@ -16,7 +16,6 @@ I'm a Computer Science student at Metropolitan State University of Denver, passi
 
 ### 💬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zavenranum-blue)](https://www.linkedin.com/in/zavenranum)  
-[![GitHub](https://img.shields.io/badge/GitHub-zavenr-black)](https://github.com/zavenr)
 
 ---
 
